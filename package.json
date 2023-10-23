@@ -1,0 +1,24 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Algorithms and  and how to solve them +  interview prep materials.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymenSakouhi/algos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AymenSakouhi/algos/issues"
+  },
+  "homepage": "https://github.com/AymenSakouhi/algos#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
